@@ -1,0 +1,36 @@
+body {
+    color: rgb(206, 209, 20);
+    background-color: rgb(2, 14, 13);
+ }
+
+ h1 {
+    width: 200px;
+    margin: auto;
+    
+  }
+
+ ul {
+    font-family: 'Julius Sans One', sans-serif;
+    margin: auto;
+    text-transform: uppercase;
+ }
+
+ h2 {
+    border: 1px solid red;
+    width: fit-content;
+    margin: auto;
+ }
+
+ p {
+    width: 300px;
+    margin: auto;
+    color: red;
+    border: 10px solid red;
+    background-color: yellow;
+ }
+
+ figure {
+    border: 10px solid red;
+    margin: auto;
+    width: fit-content;
+ }
